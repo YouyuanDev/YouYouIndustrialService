@@ -1,0 +1,86 @@
+.page {
+    background: #eee;
+}
+.page-container {
+    margin: 58px auto 0;
+    margin-top: 58px;
+    max-width: 1200px;
+    width: 100%;
+}
+.service-content{
+    width: 100%;
+    height:auto;
+}
+.mod-stage {
+    background: #fff;
+    height: calc(75vh - 58px);
+    max-height: 900px;
+    min-height: 360px;
+}
+.mod {
+    display: block;
+    margin-bottom: 10px;
+    position: relative;
+}
+.mod-generic {
+    background: #fff;
+}
+.mod-generic .mod__content {
+    padding: 55px 65px;
+}
+.js .mod-stage .slides.fade-in {
+    opacity: 1;
+    transition: opacity .5s ease;
+}
+.mod-stage .slides {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.mod-stage .slides li {
+    list-style: none;
+}
+.mod-stage .slide {
+    background: #fff;
+    height: 100%;
+}
+.mod-stage .slide--image .slide-bg {
+    height: 100%;
+}
+.bg--image {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    position: relative;
+}
+.mod-generic ul li, .mod-teaser ul li {
+    padding-left: 15px;
+    position: relative;
+}
+.mod-generic ul, .mod-teaser ul {
+    list-style: none;
+}
+.mod-generic ul li::before, .mod-teaser ul li::before {
+    background: #f39200;
+    border-radius: 100%;
+    content: "";
+    display: block;
+    height: 4px;
+    left: 0;
+    position: absolute;
+    top: 7px;
+    width: 4px;
+}
+h3 {
+    color: #DB2473;
+    font-size: 16px;
+    margin-top: 55px;
+    text-align: left;
+}
+.h2, h2 {
+    color: #DB2473;
+    font-size: 18px;
+    margin-top: 0;
+    text-align: center;
+}

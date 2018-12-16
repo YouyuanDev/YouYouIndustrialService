@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "title":"钢管涂层生产信息化控制系统APP-主页",
+    "author":"Top Inspector.",
+    "content":"钢管涂层生产信息化控制系统APP主页，主要展示钢管列表和最新状态。",
+    "imgList":"../assets/images/solution/IMG_10.PNG",
+    "datetime":"July 30, 2018"
+  },
+  {
+    "id":2,
+    "title":"钢管涂层生产信息化控制系统APP-产品信息页",
+    "author":"Top Inspector.",
+    "content":"钢管涂层生产信息化控制系统APP产品信息页，主要展示钢管的基础信息，和要进行的下一工序。",
+    "imgList":"../assets/images/solution/IMG_8.PNG",
+    "datetime":"July 30, 2018"
+  },
+  {
+    "id":3,
+    "title":"钢管涂层生产信息化控制系统APP-工序检测表单",
+    "author":"Top Inspector.",
+    "content":"钢管涂层生产信息化控制系统APP工序检测表单，主要用于操作工进行数据录入。",
+    "imgList":"../assets/images/solution/IMG_9.PNG",
+    "datetime":"July 30, 2018"
+  }
+]

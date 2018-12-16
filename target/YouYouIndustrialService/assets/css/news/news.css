@@ -1,0 +1,28 @@
+.mod-image-box {
+    background: #f39200;
+    color: #fff;
+    min-height: 276px;
+}
+.mod {
+    display: block;
+    margin-bottom: 10px;
+    position: relative;
+}
+.mod-image-box .box__image__default {
+    background-position: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    float: right;
+    height: 330px;
+    width: calc(50% - 5px);
+}
+.mod-image-box .box__content__default {
+    padding: 35px 65px;
+    width: calc(50% - 5px);
+    float: left;
+}
+.va-center-lg {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
